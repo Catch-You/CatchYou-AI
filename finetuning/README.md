@@ -8,7 +8,7 @@ The final version of the model, trained using this script, can be found at [Suji
 
 **Cost-Effective Fine-Tuning:**
 
-This approach utilizes Google Colab Pro's T4 GPU option, significantly reducing the cost compared to deploying a GPU-enabled AWS machine. 
+This approach utilizes Google Colab Pro's T4 GPU, significantly reducing the cost compared to deploying a GPU-enabled AWS machine. 
 
 **train_text_to_image_lora.py:**
 
