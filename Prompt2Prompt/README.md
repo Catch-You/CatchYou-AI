@@ -1,8 +1,9 @@
 # Criminal composite Sketch Image Editing with Prompt-to-Prompt
 
-This repository contains a Jupyter Notebook file `prompt_to_prompt_lora.ipynb` that demonstrates the use of Google's Prompt-to-Prompt technique for image editing. Specifically, it evaluates the effectiveness of this technique when applied to the `SujinHwang/criminal-sketch-lora-v2-2` model from Hugging Face, which is trained on criminal sketch data.
+This repository contains a Jupyter Notebook file `prompt2prompt.ipynb` that explores the integration of Google's Prompt-to-Prompt technique for image editing with the `SujinHwang/criminal-sketch-lora-v2-2` model from Hugging Face, which is trained on criminal sketch data. 
 
-The Prompt-to-Prompt technique allows for modifying existing images by providing a text prompt that describes the desired changes. This can be useful for various applications, such as enhancing or refining existing images.
+The Prompt-to-Prompt technique allows for modifying existing images by providing a text prompt that describes the desired changes. The notebook attempts to apply this technique to the criminal sketch model, which could potentially be useful for enhancing or refining existing sketch images.
+
 
 ## Model Information
 
