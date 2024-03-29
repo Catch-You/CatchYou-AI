@@ -11,5 +11,5 @@ This approach utilizes Google Colab Pro's T4 GPU option, significantly reducing 
 **Additional Information:**
 
 - The LoRA technique allows for efficient fine-tuning of large models like Stable Diffusion with a smaller dataset.
-- For detailed information about LoRA, refer to the LoRA: Locally Reparameterized Adaptation for Fine-tuning Large Language Models: [LoRA: Low-Rank Adaptation of Large Language Models]([https://arxiv.org/abs/2104.11957](https://huggingface.co/papers/2106.09685)) paper.
+- For detailed information about LoRA, refer to the LoRA: Locally Reparameterized Adaptation for Fine-tuning Large Language Models: ([LoRA: Low-Rank Adaptation of Large Language Models](https://huggingface.co/papers/2106.09685)) paper.
 
