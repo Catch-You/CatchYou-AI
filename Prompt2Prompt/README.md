@@ -11,6 +11,5 @@ The `SujinHwang/criminal-sketch-lora-v2-2` model is a LoRA (Low-Rank Adaptation)
 ## Acknowledgments
 
 - The Prompt-to-Prompt technique is introduced by Google AI.
-- The `SujinHwang/criminal-sketch-lora-v2-2` model is provided by Hugging Face.
 
 For more information and detailed usage instructions, please refer to the `prompt2prompt.ipynb` notebook.
