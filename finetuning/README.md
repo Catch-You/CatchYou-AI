@@ -2,6 +2,10 @@
 
 This directory contains the Colab Notebook `finetune_colab_gpu.ipynb` for fine-tuning a stable diffusion model using the LoRA technique. 
 
+**Model pushed to Huggingface**
+
+The final version of the model, trained using this script, can be found [here](https://huggingface.co/SujinHwang/criminal-sketch-lora-v2-2).
+
 **Cost-Effective Fine-Tuning:**
 
 This approach utilizes Google Colab Pro's T4 GPU option, significantly reducing the cost compared to deploying a GPU-enabled AWS machine. 
@@ -14,10 +18,6 @@ The original script provides a framework for training a Stable Diffusion model w
 
 Manual Model Loading: The script loads the scheduler, tokenizer, text encoder, VAE, and Unet models manually. This allows for fine-tuning the model from another LoRA model. 
 Korean Text Support: The original tokenizer has been replaced with a Korean tokenizer and text encoder to handle text data in Korean.
-
-**Final Model**
-
-The final version of the model, trained using this script, can be found [here](https://huggingface.co/SujinHwang/criminal-sketch-lora-v2-2).
 
 **Additional Information:**
 
