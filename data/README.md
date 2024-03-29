@@ -9,6 +9,6 @@ The dataset used in this notebook is the criminal sketch dataset, which contains
 
 ## Acknowledgments
 
-- The criminal sketch dataset is provided by aihub.or.kr. [Persona-based virtual character montage data](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=618). 
+- The criminal sketch dataset is provided by aihub.or.kr. [Persona-based virtual criminal composite data](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=618). 
 - The Hugging Face dataset page is hosted at [SujinHwang/criminal-sketch-Hr](https://huggingface.co/datasets/SujinHwang/criminal-sketch-Hr).
 
