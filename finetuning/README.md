@@ -4,7 +4,7 @@ This directory contains the Colab Notebook `finetune_colab_gpu.ipynb` for fine-t
 
 **Model pushed to Huggingface**
 
-The final version of the model, trained using this script, can be found [SujinHwang/criminal-sketch-lora-v2-2](https://huggingface.co/SujinHwang/criminal-sketch-lora-v2-2).
+The final version of the model, trained using this script, can be found at [SujinHwang/criminal-sketch-lora-v2-2](https://huggingface.co/SujinHwang/criminal-sketch-lora-v2-2).
 
 **Cost-Effective Fine-Tuning:**
 
