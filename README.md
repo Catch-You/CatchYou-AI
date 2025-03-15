@@ -14,6 +14,8 @@ Our project addresses the limitations of traditional methods by developing a fra
 - Significantly reduces creation time (under 30 seconds)
 - Allows for partial text modifications to refine images
 
+Check out our [paper/report](AI_team_paper.pdf)
+
 ## Features
 
 - **Text-to-Image Generation**: Convert witness descriptions directly into composite sketches
